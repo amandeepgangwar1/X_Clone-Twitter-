@@ -35,7 +35,7 @@
 - 🔥 Pixel-perfect X UI clone  
 - 💎 Clean dark theme  
 - 🚀 Smooth hover effects  
-- 📱 Responsive layout  
+- 📱 Responsive design 
 - 🧭 Sidebar navigation  
 - 📝 Tweet/Post section  
 - 📈 Trending panel  
